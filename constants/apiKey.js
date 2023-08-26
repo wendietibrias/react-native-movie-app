@@ -1,0 +1,4 @@
+
+const api_key = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI2NDkzYzhjZTdhZjZjM2NhMTNkY2NlYWVlYjQyMGI5ZiIsInN1YiI6IjYzZmNjMTI3OTZlMzBiMDBiZTVhYTU1YyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Pz8huLuHxNXrP-sggligvkxdHi80pu1QzrGrTt7_rkA";
+
+export default api_key;
